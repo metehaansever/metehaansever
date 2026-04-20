@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on [Anvi'o](https://anvio.org/)
-
-- 🌱 I’m currently learning **Nodejs**
-
 - 📫 How to reach me **metehaansever@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
